@@ -1,0 +1,14 @@
+streamlit
+streamlit-option-menu
+google-generativeai
+easyocr
+pillow
+numpy
+requests
+beautifulsoup4
+regex
+base64
+librosa
+soundfile
+scikit-learn
+joblib
